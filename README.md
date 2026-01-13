@@ -105,7 +105,7 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Matiu?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maticus/)](https://www.linkedin.com/in/maticus/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-maticus?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maticus/)](https://www.linkedin.com/in/maticus/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-matihus.molina@unmsm.edu.pe-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:matihus.molina@unmsm.edu.pe)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-mathpycisit-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mathpycisit/)&nbsp;
   <!-- [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp; -->
