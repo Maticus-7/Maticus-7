@@ -108,9 +108,9 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-maticus?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maticus/)](https://www.linkedin.com/in/maticus/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-matihus.molina@unmsm.edu.pe-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:matihus.molina@unmsm.edu.pe)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-mathpycisit-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mathpycisit/)&nbsp;
-  <!-- [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp; -->
+  <!-- [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp; 
   [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
-
+  -->
 </div>
 
 
