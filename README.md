@@ -28,7 +28,7 @@ Life is short, better leave something useful for others.
   <img src="https://imgs.search.brave.com/7Aw-2Tx-1lzq8xx-NWyiS_2R3Al24GJxzwePH8GlUtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2luZHBuZy5jb20v/cGljYy9tLzE5Ny0x/OTc4Mzg4X21wLW1h/eC1wbGFuY2staW5z/dGl0dXRlLWxvZ28t/aGQtcG5nLWRvd25s/b2FkLnBuZw" width="24" />
   </a>.
 - 💬 Ask me about <a href="https://www.latex-project.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" />
+  <img src="https://imgs.search.brave.com/j1X3m8sgJqJs4vKXLRL2D7RDqESf_7h7851rAQi-7IA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzgvMS9sYXRleC1s/b2dvLXBuZ19zZWVr/bG9nby04MjQyNi5w/bmc" width="36" />
   </a>.
 - 📫 How to reach me: <a href="mailto:matihus.molina@unmsm.edu.pe">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" />
@@ -94,24 +94,25 @@ Life is short, better leave something useful for others.
 <a href="https://www.qt.io/product/development-tools">
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/qtcreator.svg" width="24" />
 </a>
-<a href="https://code.visualstudio.com">
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24" />
+<a href="https://www.docker.com">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
+</a>
+<a href="https://visualstudio.microsoft.com/vs">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vs.svg" width="24" />
 </a>
 <a href="https://www.gnu.org/software">
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24" />
 </a>
 -->
-<a href="https://www.docker.com">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
-</a>
+
 <a href="https://docs.gitlab.com/runner">
 <img src="https://gitlab.com/uploads/-/system/project/avatar/250833/runner.png" width="24" />
 </a>
 <a href="https://git-scm.com">
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24" />
 </a>
-<a href="https://visualstudio.microsoft.com/vs">
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vs.svg" width="24" />
+<a href="https://code.visualstudio.com">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24" />
 </a>
 
 <!-- <a href="https://www.vim.org">
@@ -123,6 +124,6 @@ Life is short, better leave something useful for others.
 
 **Fan club：**
 <a href="https://www.fcbarcelona.com/en/">
-<img src="https://imgs.search.brave.com/jCe2Px-cAWAVZG7rt7Tl85dnEslbvZdPBRbqVgEddhY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/Ym5haWwuaW1nYmlu/LmNvbS8xNC8xNS8x/MS9pbWdiaW4tZmMt/YmFyY2Vsb25hLWZv/b3RiYWxsLWxvZ28t/MjAxOC13b3JsZC1j/dXAtZmMtYmFyY2Vs/b25hLXU4Qnl5VkhS/Y3F5YzRjU3VleW1i/VWd0YVBfdC5qcGc"
+<img src="https://imgs.search.brave.com/hHSAz2oAPNzWXoI5AlxJ619JryxT3nHAvPChd-R44-w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvNS9GQy1C/YXJjZWxvbmEtTG9n/by1QTkctRmlsZS5w/bmc"
       width="24" />
 </a>
