@@ -1,123 +1,128 @@
-<div>
-🔴🟡🟢
+### Hi there I'm [Matiu](https://github.com/Maticus-7)👋
 
-<br>
+An undergraduate mathematics student at [UNMSM](https://www.unmsm.edu.pe)
+(Lima, 🇵🇪, Earth, Milky Way).
+Loves open source and sharing.
 
-</div>
+Life is short, better leave something useful for others.
 
+<a href="https://github.com/Maticus-7">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maticus-7&count_private=true&layout=compact&show_icons=true" />
+</a>
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div> -->  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maticus-7&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Maticus-7?tab=followers">
-    <img src="https://img.shields.io/github/followers/Maticus-7?style=social" alt="Followers" />
+- 🔭 I'm currently studying math and watching anime.
+- 🌱 I'm currently learning <a href="https://lean-lang.org">
+  <img
+        src="https://www.microsoft.com/en-us/research/wp-content/uploads/2022/07/LEAN-Theorem-Prover.png"
+        width="24" />
+  </a> and
+  <a href="https://www.python.org/">
+  <img src="https://www.python.org/static/img/python-logo.png" width="24" />
+  </a>.
+- 👯 I'm looking to study on <a href="https://ethz.ch/en.html">
+  <img src="https://imgs.search.brave.com/awDJBh333KjAKPPIQGAlkBePzKowqjYcccc_PZOAQBE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWdueW91cndh/eS5uZXQvYmxvZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/NC9ldGgtenVyaWNo/LWxvZ28uanBn"
+        width="24" />
+  </a> or
+  <a href="https://www.mpg.de/institutes">
+  <img src="https://imgs.search.brave.com/7Aw-2Tx-1lzq8xx-NWyiS_2R3Al24GJxzwePH8GlUtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2luZHBuZy5jb20v/cGljYy9tLzE5Ny0x/OTc4Mzg4X21wLW1h/eC1wbGFuY2staW5z/dGl0dXRlLWxvZ28t/aGQtcG5nLWRvd25s/b2FkLnBuZw" width="24" />
+  </a>.
+- 💬 Ask me about <a href="https://www.latex-project.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" />
+  </a>.
+- 📫 How to reach me: <a href="mailto:matihus.molina@unmsm.edu.pe">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" />
   </a>
-</p>
+  or in
+  <a href="https://www.instagram.com/mathpycisit/">
+  <img src="https://imgs.search.brave.com/uBcZb-y-8o-ZhaFFlnsnuFGF0zlYQJZpqArI2NkBnnM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTgv/OTMwLzY5MS9zbWFs/bC9pbnN0YWdyYW0t/bG9nby1pbnN0YWdy/YW0taWNvbi10cmFu/c3BhcmVudC1mcmVl/LXBuZy5wbmc" width="24" />
+  </a>.
 
+<a href="https://github.com/Maticus-7">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=Maticus-7&count_private=true&show_icons=true" />
+</a>
 
-<div>
+**Distributions：**
+<!-- <a href="https://www.archlinux.org">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
+</a>
+<a href="https://getfedora.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24" />
+</a>
+<a href="https://www.deepin.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width="24" />
+</a>
+<a href="https://www.debian.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="24" />
+</a>
+<a href="https://rockylinux.org">
+<img src="https://raw.githubusercontent.com/rocky-linux/rocky-logos/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg" width="24" />
+</a>
+<a href="https://nixos.org">
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="24" />
+</a>
 
-  ## 🧭 &nbsp;About Me
+**Platforms：**
+<a href="https://www.kernel.org">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg" width="24" />
+</a>
+<a href="https://www.raspberrypi.org">
+<img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
+</a>
+<a href="https://www.microsoft.com/en-us/software-download/windows11">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="24" />
+</a> -->
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+**Languages：**
+<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/c%20(3).svg" width="24" />
+</a>
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24" />
+<!-- <a href="https://www.postgresql.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="24" />
+</a> -->
+<a href="https://www.python.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" />
+</a>
+<a href="https://www.r-project.org">
+<img src="https://www.r-project.org/logo/Rlogo.svg" width="24" />
+</a>
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+**Tools：**
+<!--
+<a href="https://www.qt.io/product/development-tools">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/qtcreator.svg" width="24" />
+</a>
+<a href="https://code.visualstudio.com">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24" />
+</a>
+<a href="https://www.gnu.org/software">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24" />
+</a>
+-->
+<a href="https://www.docker.com">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
+</a>
+<a href="https://docs.gitlab.com/runner">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/250833/runner.png" width="24" />
+</a>
+<a href="https://git-scm.com">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24" />
+</a>
+<a href="https://visualstudio.microsoft.com/vs">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vs.svg" width="24" />
+</a>
 
-  - 💬 Ask me about **any technology**.
+<!-- <a href="https://www.vim.org">
+    <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vim-gtk.svg" width="24" />
+</a>
+<a href="https://www.gnu.org/software/emacs">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="24" />
+</a> -->
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
-
-  <br>
-  
-
-</div>
-
-
-<div align="center">
-
-  `Developer and IT enthusiast`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
-</div>
-
-
-<div>
-
-  ## 📚 &nbsp;Currently studying
-
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
-
-</div>
-
-
-<div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-
-</div>
-
-
-<!-- <div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div> -->
-
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-maticus?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maticus/)](https://www.linkedin.com/in/maticus/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-matihus.molina@unmsm.edu.pe-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:matihus.molina@unmsm.edu.pe)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-mathpycisit-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mathpycisit/)&nbsp;
-  <!-- [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp; 
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
-  -->
-</div>
-
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ## 📚 &nbsp;My Projects -->
+**Fan club：**
+<a href="https://www.fcbarcelona.com/en/">
+<img src="https://imgs.search.brave.com/jCe2Px-cAWAVZG7rt7Tl85dnEslbvZdPBRbqVgEddhY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/Ym5haWwuaW1nYmlu/LmNvbS8xNC8xNS8x/MS9pbWdiaW4tZmMt/YmFyY2Vsb25hLWZv/b3RiYWxsLWxvZ28t/MjAxOC13b3JsZC1j/dXAtZmMtYmFyY2Vs/b25hLXU4Qnl5VkhS/Y3F5YzRjU3VleW1i/VWd0YVBfdC5qcGc"
+      width="24" />
+</a>
